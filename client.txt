@@ -1,0 +1,28 @@
+              <div class="container">
+					<div class="row py-5 my-5">
+
+                    <h2 class="font-weight-normal text-6 pb-2 mb-4">Our <strong class="font-weight-extra-bold">Clients</strong></h2>
+						<div class="col">
+
+							<div class="owl-carousel owl-theme mb-0 owl-loaded owl-drag owl-carousel-init" data-plugin-options="{'responsive': {'0': {'items': 1}, '476': {'items': 1}, '768': {'items': 5}, '992': {'items': 7}, '1200': {'items': 7}}, 'autoplay': true, 'autoplayTimeout': 3000, 'dots': false}" style="height: auto;">
+									
+								
+							<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1116px, 0px, 0px); transition: all 0.25s ease 0s; width: 3508px;">
+								<?php if(!empty( $client_json ) && is_array( $client_json )){ ?>
+									<?php foreach ($client_json as $key => $value) {
+								$image_url = 'img/back_images/'.$value;
+								?>
+								<div class="owl-item cloned" >
+									<div>
+									<img class="img-fluid" src="<?= $image_url  ?>" alt="">
+									</div>
+								</div>
+								<?php } ?>
+							 <?php } ?>
+							</div>
+						</div>
+						<div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"></button><button type="button" role="presentation" class="owl-next"></button></div><div class="owl-dots disabled"></div></div>
+
+						</div>
+					</div>
+				</div>  

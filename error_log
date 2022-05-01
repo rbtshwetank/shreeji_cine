@@ -1,0 +1,164 @@
+[12-Feb-2022 10:16:02 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:16:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:16:30 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:16:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:17:50 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:17:50 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:17:54 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:17:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:18:20 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:18:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:20:56 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:20:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/header.php on line 1
+[12-Feb-2022 10:21:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:31 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:31 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:21:31 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 202
+[12-Feb-2022 10:22:11 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:11 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:11 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:12 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:12 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:12 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:12 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:12 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:12 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:16 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:16 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:16 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:22:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:23:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/product_details.php on line 126
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/product_details.php on line 126
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/product_details.php on line 126
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:42 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:25:55 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:20 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:22 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:22 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:22 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:51 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:51 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:26:51 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:27:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:12 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/product_details.php on line 126
+[12-Feb-2022 10:31:12 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/product_details.php on line 126
+[12-Feb-2022 10:31:12 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/product_details.php on line 126
+[12-Feb-2022 10:31:13 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:13 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:13 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:13 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:13 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:13 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:16 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:16 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:16 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:17 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[12-Feb-2022 10:31:17 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/imperial/public_html/index.php on line 201
+[15-Feb-2022 12:22:30 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/imperial/public_html/index.php on line 178
+[15-Feb-2022 12:22:31 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/imperial/public_html/index.php on line 178
+[17-Feb-2022 14:50:00 UTC] PHP Warning:  POST Content-Length of 9686706 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Apr-2022 03:09:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'imperial_database'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:17:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shreegyg_user'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:18:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shreegyg_shreeji'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:20:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shreegyg_shreeji'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:20:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shreegyg_shreeji'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:21:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shreegyg_shreeji'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:21:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shreegyg_shreeji'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:23:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'shreegyg_shreeji'@'localhost' (using password: YES) in /home3/shreegyg/public_html/config.php on line 7
+[30-Apr-2022 03:24:59 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home3/shreegyg/public_html/header.php on line 165
+[30-Apr-2022 03:24:59 UTC] PHP Warning:  Undefined variable $home_about_one_img in /home3/shreegyg/public_html/index.php on line 101
+[30-Apr-2022 03:24:59 UTC] PHP Warning:  Undefined variable $home_about_two_img in /home3/shreegyg/public_html/index.php on line 107
+[30-Apr-2022 03:24:59 UTC] PHP Warning:  Undefined variable $home_about_three_img in /home3/shreegyg/public_html/index.php on line 113
+[30-Apr-2022 03:24:59 UTC] PHP Warning:  Undefined variable $home_about_four_img in /home3/shreegyg/public_html/index.php on line 121
+[30-Apr-2022 03:24:59 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home3/shreegyg/public_html/product_layout.php on line 11
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home3/shreegyg/public_html/header.php on line 165
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_one_img in /home3/shreegyg/public_html/index.php on line 101
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_two_img in /home3/shreegyg/public_html/index.php on line 107
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_three_img in /home3/shreegyg/public_html/index.php on line 113
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_four_img in /home3/shreegyg/public_html/index.php on line 121
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home3/shreegyg/public_html/product_layout.php on line 11
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home3/shreegyg/public_html/header.php on line 165
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_one_img in /home3/shreegyg/public_html/index.php on line 101
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_two_img in /home3/shreegyg/public_html/index.php on line 107
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_three_img in /home3/shreegyg/public_html/index.php on line 113
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Undefined variable $home_about_four_img in /home3/shreegyg/public_html/index.php on line 121
+[30-Apr-2022 03:59:42 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home3/shreegyg/public_html/product_layout.php on line 11
+[30-Apr-2022 06:00:31 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 06:00:31 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 06:11:40 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 06:11:41 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 10:09:06 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 23:40:50 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 23:42:41 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 23:43:23 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 23:43:24 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
+[30-Apr-2022 23:43:27 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/dash_header.php on line 3
+[30-Apr-2022 23:43:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/shreegyg/public_html/dash_header.php:3) in /home3/shreegyg/public_html/dash_header.php on line 4
+[30-Apr-2022 23:43:47 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/dash_header.php on line 3
+[30-Apr-2022 23:43:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/shreegyg/public_html/dash_header.php:3) in /home3/shreegyg/public_html/dash_header.php on line 4
+[30-Apr-2022 23:43:48 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/dash_header.php on line 3
+[30-Apr-2022 23:43:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/shreegyg/public_html/dash_header.php:3) in /home3/shreegyg/public_html/dash_header.php on line 4
+[30-Apr-2022 23:43:49 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/dash_header.php on line 3
+[30-Apr-2022 23:43:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/shreegyg/public_html/dash_header.php:3) in /home3/shreegyg/public_html/dash_header.php on line 4
+[01-May-2022 04:37:42 UTC] PHP Warning:  Undefined array key "Active" in /home3/shreegyg/public_html/admin_login.php on line 6
